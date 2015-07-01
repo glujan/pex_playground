@@ -1,0 +1,5 @@
+*.pyc
+*.pex
+
+/target
+/.coverage
